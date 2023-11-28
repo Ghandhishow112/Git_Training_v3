@@ -1,0 +1,106 @@
+[33mcommit 731b088b89bec2472d765f66c2b3d14446103fca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;32mmain[m[33m)[m
+Merge: bd47ea9 5737e00
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Tue Nov 28 12:29:40 2023 +0100
+
+    merging
+
+[33mcommit bd47ea9c5ef38de31c65554d7655709ffa9b8942[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Tue Nov 28 12:19:23 2023 +0100
+
+    first commit
+
+[33mcommit 5737e008b7d6a15ea4dc24e35083bede45a1f581[m
+Merge: 96db2e2 02c232b
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Tue Nov 28 12:10:13 2023 +0100
+
+    merging develop to mian
+
+[33mcommit 96db2e216b9bdc0caefe0bdbb3e055440ba99d69[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Tue Nov 28 12:03:40 2023 +0100
+
+    sample mergr develop
+
+[33mcommit 02c232bc6cffd913f998cfeb405a1c7e9d5e562a[m
+Author: Ghandhishow112 <99289964+Ghandhishow112@users.noreply.github.com>
+Date:   Tue Nov 28 11:09:29 2023 +0100
+
+    Update Real_data.txt
+
+[33mcommit af162ca57165057a7509875a4ff3b70d43b866a7[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Tue Nov 28 11:01:58 2023 +0100
+
+    my real data first commit
+
+[33mcommit 86365b00c1430fe062827075c51b89c7740ff102[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Mon Nov 27 12:15:31 2023 +0100
+
+    new commit
+
+[33mcommit 9b3c91cfee452e0e9625d240cadc0eb4b42a2168[m
+Merge: 24d1dae e64b439
+Author: Ghandhishow112 <99289964+Ghandhishow112@users.noreply.github.com>
+Date:   Mon Nov 27 11:41:41 2023 +0100
+
+    Merge pull request #3 from Ghandhishow112/main
+    
+    Merge pull request #2 from Ghandhishow112/develop
+
+[33mcommit e64b439b23994e836921af76c355241dc843fb59[m
+Merge: 3aed108 24d1dae
+Author: Ghandhishow112 <99289964+Ghandhishow112@users.noreply.github.com>
+Date:   Mon Nov 27 11:40:51 2023 +0100
+
+    Merge pull request #2 from Ghandhishow112/develop
+    
+    Develop
+
+[33mcommit 24d1dae37e9ebaab9cc5738c9b80237f74de2eda[m
+Merge: dd9fc8c 3aed108
+Author: Ghandhishow112 <99289964+Ghandhishow112@users.noreply.github.com>
+Date:   Mon Nov 27 11:39:13 2023 +0100
+
+    Merge pull request #1 from Ghandhishow112/main
+    
+    sample file on main
+
+[33mcommit 3aed1084de99fea20eca640cdc99519b5a3dd7f0[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Mon Nov 27 11:21:18 2023 +0100
+
+    sample file on main
+
+[33mcommit dd9fc8c3d58707778592b46fcc97e8c2b8ef39da[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Mon Nov 27 11:14:42 2023 +0100
+
+    new sample files
+
+[33mcommit 138714fb310556e05806c8dc65fa66cf59c7b0df[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Mon Nov 27 10:33:45 2023 +0100
+
+    adding sssh
+
+[33mcommit 18e05750f4e5afb44eda236fcaf709199a73beeb[m
+Author: Adegoke Ganiyu <Adegokeganiyu435@gmail.com>
+Date:   Mon Nov 27 10:13:47 2023 +0100
+
+    my another commit for testfile
+
+[33mcommit 2aff99ba80b47aa0bcace4d9f6f22fe6a932e206[m
+Author: Ghandhishow112 <99289964+Ghandhishow112@users.noreply.github.com>
+Date:   Mon Nov 27 09:48:49 2023 +0100
+
+    Create testfile.txt
+
+[33mcommit 28bf9d6f199bed824f6f0d9dcb625a5cc44d17a1[m
+Author: Ghandhishow112 <99289964+Ghandhishow112@users.noreply.github.com>
+Date:   Mon Nov 27 09:37:45 2023 +0100
+
+    Initial commit
